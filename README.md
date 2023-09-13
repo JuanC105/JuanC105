@@ -13,7 +13,7 @@ I'm from Peru.
 
 
 ## 🛠 Technologies
-![Python](https://img.shields.io/badge/python-gray?logo=python)
+![Python](https://img.shields.io/badge/Python-gray?logo=Python)
 
 
 ## More information
