@@ -23,20 +23,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuanC105/JuanC105/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JuanC105&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
