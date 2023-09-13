@@ -12,6 +12,10 @@ I'm from Peru.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-alcazar-gonzales/)
 
 
+## 🛠 Technologies
+![Python](https://img.shields.io/badge/python-gray?logo=python)
+
+
 ## More information
 
 🧠 I'm currently learning about data visualization.
@@ -22,7 +26,6 @@ I'm from Peru.
 
 
 
-## 🛠 Technologies
 
 
 
