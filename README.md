@@ -18,6 +18,7 @@ I'm from Peru.
 ![Pandas](https://img.shields.io/badge/Pandas-gray?logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-gray?logo=scikitlearn)
 ![PowerBI](https://img.shields.io/badge/PowerBI-gray?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-gray?logo=microsoftexcel)
 
 
 ## More information
